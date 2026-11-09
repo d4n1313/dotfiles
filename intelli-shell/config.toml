@@ -1,0 +1,7 @@
+# Configuration for the default gist to use when importing or exporting (if no other is explicitly set)
+[gist]
+# The id of the gist, you can get it from the url after the username
+id = "a209f7e4236c6a66a87e3e4e3d0024f3"
+# Token to authenticate the API call to GH when exporting
+# GIST_TOKEN env variable will take precedence over the config value
+token = ""
